@@ -1,9 +1,9 @@
 <?php
 
-namespace app\Core\Middleware;
+namespace dandevmd\mvccore\Middleware;
 
-use app\Core\Request;
-use app\Core\Response;
+use dandevmd\mvccore\Request;
+use dandevmd\mvccore\Response;
 
 interface MiddlewareI
 {
