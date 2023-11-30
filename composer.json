@@ -14,7 +14,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "dandevmd\\mvccore": "./"
+      "dandevmd\\mvccore\\": "./"
     }
   }
 }
