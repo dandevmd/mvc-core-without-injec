@@ -1,0 +1,15 @@
+{
+    "name": "incognito/core",
+    "autoload": {
+        "psr-4": {
+            "Incognito\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dandevmd",
+            "email": "danmunteanu420@gmail.com"
+        }
+    ],
+    "require": {}
+}
